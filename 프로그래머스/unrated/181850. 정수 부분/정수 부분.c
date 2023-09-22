@@ -4,6 +4,6 @@
 
 int solution(double flo) {
     int answer;
-    scanf("%d", &flo);
+    scanf("%d" , &flo);
     return flo;
 }
